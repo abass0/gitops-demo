@@ -5,7 +5,7 @@ metadata:
   name: demo-vm2
   namespace: demo-vm
 spec:
-  running: true
+  running: false
   template:
     metadata:
       creationTimestamp: null
